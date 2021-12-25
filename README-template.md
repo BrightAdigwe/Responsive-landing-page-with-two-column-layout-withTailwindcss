@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5/hub/responsive-landing-page-with-two-column-layout-withtailwindcss-bjaLNLWw9)
+- Live Site URL: [Add live site URL here](https://fylomanager.netlify.app/)
 
 ## My process
 
